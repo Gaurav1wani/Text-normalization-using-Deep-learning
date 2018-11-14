@@ -1,0 +1,1 @@
+['At', 'the', 'National', 'Archives', 'in', 'Kew', ',', 'England', 'and', 'under', 'reference', 'HO', 'one hundred and forty-four thousand, four hundred and seven', '/', 'twenty-three thousand, seven hundred and sixty-two', 'are', 'papers', 'which', 'cover', 'George', 'Louis', "Roselieb's", 'Naturalisation', '.']
